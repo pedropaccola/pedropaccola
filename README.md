@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working as an Associate Incident Management Specialist for Google GKE applications. I'm also learning and look to collaborate in projects written in Go.<br><br><br><br>
+🔭 I'm currently working as an Associate Incident Management Specialist for Liferay. I'm also learning and look to collaborate in projects written in Go.<br><br><br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pepaccola) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paccola) 
