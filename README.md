@@ -5,23 +5,24 @@
 ---
 
 ### 💻 Tech Stack:
-<div>
+<div id="tech" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud" width="40" height="40"/>
 </div>
 
 ---
 
 ### 📊 GitHub Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pedropaccola&theme=dark&hide_border=true)](https://github.com/pedropaccola)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedropaccola&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)](https://github.com/pedropaccola)
-
+<div id="stats" align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=pedropaccola&theme=dark&hide_border=true" title="Stats"/>&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropaccola&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" title"Top Langs"/>
+</div>
+  
 ---
 
 <div id="footer" align="center">
