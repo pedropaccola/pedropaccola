@@ -1,42 +1,46 @@
-### 💫 About Me:
+<h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 
-🔭 I'm currently working as an Associate Incident Management Specialist for Liferay.
+<p align="center">
+  <i>
+    I'm Pedro.<br>
+    I'm currently working as an Associate Incident Management Specialist for Liferay.<br>
+    Always learning and open to collaborating on interesting and innovative projects.<br>
+  </i><br>
+  <a href="https://linkedin.com/in/paccola">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/pepaccola">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</p>
 
----
+### Tech Stack:
+<p align="center">
+  <img src="https://img.shields.io/badge/GOLANG-black?style=for-the-badge&logo=go" alt="Golang Badge"/>
+  <img src="https://img.shields.io/badge/JAVA-black?style=for-the-badge&logo=openjdk" alt="Java Badge"/>
+  <img src="https://img.shields.io/badge/BASH-black?style=for-the-badge&logo=gnubash" alt="Bash Badge"/>
+  <img src="https://img.shields.io/badge/PYTHON-black?style=for-the-badge&logo=python" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus" alt="Cpp Badge"/>  
+  <img src="https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git" alt="Git Badge"/>
+  <img src="https://img.shields.io/badge/Google Cloud-black?style=for-the-badge&logo=googlecloud" alt="Google Cloud Badge"/>
+</p>
 
-### 💻 Tech Stack:
-<div id="tech" align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud" width="40" height="40"/>
-</div>
 
----
-
-### 📊 GitHub Stats:
-<div id="stats" align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=pedropaccola&theme=dark&hide_border=true" title="Stats"/>&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropaccola&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" title"Top Langs"/>
-</div>
+<details>
+  <summary>Stats</summary>
+  <p align="center">
+    <a href="https://github.com/pedropaccola">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedropaccola&theme=transparent" title="Summary"/><br>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedropaccola&hide_border=true&card_width=338&theme=transparent" title="Stats1"/>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedropaccola&theme=transparent" title="Stats2"/><br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropaccola&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,dockerfile,procfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent"/>
+    </a>
+  </p>
+</details>
   
----
 
-<div id="footer" align="center">
-  <div id="badges">
-    <a href="https://linkedin.com/in/paccola">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://instagram.com/pepaccola">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram Badge"/>
-    </a>
-  </div>
-  <div id="views">
-    <a href="https://visitcount.itsvg.in">
-      <img src="https://visitcount.itsvg.in/api?id=pedropaccola&label=Profile%20Views&color=3&icon=2&pretty=true" />
-    </a>
-  </div>
-</div>
+<p align="center">
+  <a href="https://github.com/pedropaccola">
+    <img src="https://visitcount.itsvg.in/api?id=pedropaccola&label=Profile%20Views&color=12&icon=2&pretty=true" />
+  </a>
+</p>
