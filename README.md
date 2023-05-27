@@ -15,7 +15,7 @@
 </p>
 
 ### Tech Stack:
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/GOLANG-black?style=for-the-badge&logo=go" alt="Golang Badge"/>
   <img src="https://img.shields.io/badge/JAVA-black?style=for-the-badge&logo=openjdk" alt="Java Badge"/>
   <img src="https://img.shields.io/badge/BASH-black?style=for-the-badge&logo=gnubash" alt="Bash Badge"/>
@@ -27,7 +27,7 @@
 
 
 <details>
-  <summary>Stats</summary>
+  <summary><h3>Stats</h3></summary>
   <p align="center">
     <a href="https://github.com/pedropaccola">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedropaccola&theme=transparent" title="Summary"/><br>
