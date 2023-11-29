@@ -33,7 +33,7 @@
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedropaccola&theme=transparent" title="Summary"/><br>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedropaccola&hide_border=true&card_width=338&theme=transparent" title="Stats1"/>
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedropaccola&theme=transparent" title="Stats2"/><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropaccola&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,dockerfile,procfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropaccola&langs_count=10&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,dockerfile,procfile,emacs%20lisp,css,html&layout=compact&card_width=699&hide_border=true&theme=transparent"/>
     </a>
   </p>
 </details>
