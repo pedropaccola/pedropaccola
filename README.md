@@ -3,7 +3,7 @@
 <p align="center">
   <i>
     I'm Pedro.<br>
-    I'm currently working as an Associate Incident Management Specialist for Liferay.<br>
+    I'm currently working as an Associate Site Reliability Engineer for Liferay.<br>
     Always learning and open to collaborating on interesting and innovative projects.<br>
   </i><br>
   <a href="https://linkedin.com/in/paccola">
