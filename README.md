@@ -17,10 +17,9 @@
 ### Tech Stack:
 <p>
   <img src="https://img.shields.io/badge/GOLANG-black?style=for-the-badge&logo=go" alt="Golang Badge"/>
-  <img src="https://img.shields.io/badge/JAVA-black?style=for-the-badge&logo=openjdk" alt="Java Badge"/>
   <img src="https://img.shields.io/badge/BASH-black?style=for-the-badge&logo=gnubash" alt="Bash Badge"/>
   <img src="https://img.shields.io/badge/PYTHON-black?style=for-the-badge&logo=python" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus" alt="Cpp Badge"/>  
+  <img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c" alt="C Badge"/>  
   <img src="https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git" alt="Git Badge"/>
   <img src="https://img.shields.io/badge/Google Cloud-black?style=for-the-badge&logo=googlecloud" alt="Google Cloud Badge"/>
 </p>
